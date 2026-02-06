@@ -2,8 +2,8 @@
 let bgMusic;
 
 /* ===== MESSAGE ===== */
-const msg = `I can't wait for the day we no longer have to count the miles ❤️.
-Until then, know that I love you more than ever.
+const msg = `I can't wait for the day we no longer have to count the miles.
+Until then, know that I love you more than ever ❤️❤️.
 
 Will you be my Valentine forever ♾️❤️?`;
 
